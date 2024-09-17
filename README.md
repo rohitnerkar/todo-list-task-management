@@ -35,7 +35,7 @@ The HTML structure of the project provides a clean and minimalistic user interfa
 - CSS Styling:
 The CSS for the project focuses on creating a modern, responsive design with light colours. The styling includes hover effects, dynamic input field appearances, and responsive task lists.
 
--JavaScript Functionality:
+- JavaScript Functionality:
 JavaScript is responsible for making the application dynamic. The script controls task creation, deletion, completion, drag-and-drop reordering, and filtering. Event listeners are added to buttons and inputs to handle user interaction, while tasks are dynamically created and manipulated using the DOM.
 Key functions include:
 •	Task Creation: Creates new task list items dynamically and appends them to the list.
